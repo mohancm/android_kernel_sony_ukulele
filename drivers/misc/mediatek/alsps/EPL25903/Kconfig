@@ -1,0 +1,4 @@
+
+config MTK_EPL25903
+	bool "EPL25903 for MediaTek package"
+	default n
